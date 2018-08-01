@@ -1,0 +1,73 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DataDrivenFramework">
+<!-- <test name="Count Unread Email Test">
+    <classes>
+        <class name="DD_Tests.FindUnreadMails" ></class>  
+    </classes>
+</test>-->
+<!--<test name="Count Starred Email Test">
+    <classes>
+        <class name="DD_Tests.CountOfStarredMails" ></class>  
+    </classes>
+</test> -->
+<!--<test name="Count Email Test">
+    <classes>
+        <class name="DD_Tests.CountNoOfEmails" ></class>  
+    </classes>
+</test>-->
+<!--<test name="Gmail login Test">
+    <classes>
+        <class name="DD_Tests.LoginGmail" ></class>  
+    </classes>
+</test>-->
+<!--<test name="Google search Test">
+    <classes>
+        <class name="DD_Tests.SearchGoogleTest" ></class>  
+    </classes>
+</test>-->
+<!--  <test name="Login test">
+    <classes>
+        <class name="DD_Tests.LoginTest" ></class>  
+    </classes>
+</test>
+ <test name="UploadPhoto test">
+    <classes>
+        <class name="DD_Tests.SecondTest" ></class>  
+    </classes>
+</test>
+<test name="Google Verification Test">
+    <classes>
+        <class name="DD_Tests.GooglePageVerification" ></class>  
+    </classes>
+</test>-->
+<test name="GoogleApp Verification Test">
+    <classes>
+        <class name="DD_Tests.GoogleAppVerification" ></class>  
+    </classes>
+</test>
+
+<!--  <test name="Google App launching Test">
+    <classes>
+        <class name="DD_Tests.GoogleAppLaunching" ></class>  
+    </classes>
+</test>
+
+<test name="Google App signin Test">
+    <classes>
+        <class name="DD_Tests.testSignIn" ></class>  
+    </classes>
+</test>
+
+<test name="Google links Test">
+    <classes>
+        <class name="DD_Tests.TestGoogleLink" ></class>  
+    </classes>
+</test>-->
+
+<!-- <test name="Google search Test">
+    <classes>
+        <class name="DD_Tests.GoogleSearch" ></class>  
+    </classes>
+</test> -->
+
+</suite>
